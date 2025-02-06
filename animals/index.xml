@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>动物 on Gallery</title>
+    <link>https://gallery.mrlining.cn/animals/</link>
+    <description>Recent content in 动物 on Gallery</description>
+    <generator>Hugo</generator>
+    <language>zh</language>
+    <managingEditor>1084836421@qq.com (Ning)</managingEditor>
+    <webMaster>1084836421@qq.com (Ning)</webMaster>
+    <copyright>Copyright © 2025 Ning All Rights Reserved</copyright>
+    <lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://gallery.mrlining.cn/animals/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>猫</title>
+      <link>https://gallery.mrlining.cn/animals/cats/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate><author>1084836421@qq.com (Ning)</author>
+      <guid>https://gallery.mrlining.cn/animals/cats/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>狗</title>
+      <link>https://gallery.mrlining.cn/animals/dogs/</link>
+      <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate><author>1084836421@qq.com (Ning)</author>
+      <guid>https://gallery.mrlining.cn/animals/dogs/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
