@@ -1,43 +1,34 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Gallery</title>
+    <title>Categories on gallery</title>
     <link>https://gallery.mrlining.cn/categories/</link>
-    <description>Recent content in Categories on Gallery</description>
-    <generator>Hugo</generator>
+    <description>Recent content in Categories on gallery</description>
+    <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
     <managingEditor>1084836421@qq.com (Ning)</managingEditor>
     <webMaster>1084836421@qq.com (Ning)</webMaster>
     <copyright>Copyright © 2025 Ning All Rights Reserved</copyright>
-    <lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://gallery.mrlining.cn/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://gallery.mrlining.cn/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Animals</title>
       <link>https://gallery.mrlining.cn/categories/animals/</link>
       <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate><author>1084836421@qq.com (Ning)</author>
-      <guid>https://gallery.mrlining.cn/categories/animals/</guid>
-      <description></description>
-    </item>
+      <guid>https://gallery.mrlining.cn/categories/animals/</guid><description>Categories can also have custom titles and descriptions. The description of the Animals category lives in `content/categories/animals/_index.md`.</description></item>
     <item>
       <title>Nature</title>
       <link>https://gallery.mrlining.cn/categories/nature/</link>
       <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate><author>1084836421@qq.com (Ning)</author>
-      <guid>https://gallery.mrlining.cn/categories/nature/</guid>
-      <description></description>
-    </item>
+      <guid>https://gallery.mrlining.cn/categories/nature/</guid><description>&lt;no value&gt;</description></item>
     <item>
       <title>时尚</title>
       <link>https://gallery.mrlining.cn/categories/%E6%97%B6%E5%B0%9A/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>1084836421@qq.com (Ning)</author>
-      <guid>https://gallery.mrlining.cn/categories/%E6%97%B6%E5%B0%9A/</guid>
-      <description></description>
-    </item>
+      <guid>https://gallery.mrlining.cn/categories/%E6%97%B6%E5%B0%9A/</guid><description>&lt;no value&gt;</description></item>
     <item>
       <title>美丽</title>
       <link>https://gallery.mrlining.cn/categories/%E7%BE%8E%E4%B8%BD/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>1084836421@qq.com (Ning)</author>
-      <guid>https://gallery.mrlining.cn/categories/%E7%BE%8E%E4%B8%BD/</guid>
-      <description></description>
-    </item>
+      <guid>https://gallery.mrlining.cn/categories/%E7%BE%8E%E4%B8%BD/</guid><description>&lt;no value&gt;</description></item>
   </channel>
 </rss>

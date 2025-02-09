@@ -1,36 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Nature on Gallery</title>
+    <title>Nature on gallery</title>
     <link>https://gallery.mrlining.cn/categories/nature/</link>
-    <description>Recent content in Nature on Gallery</description>
-    <generator>Hugo</generator>
+    <description>Recent content in Nature on gallery</description>
+    <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
     <managingEditor>1084836421@qq.com (Ning)</managingEditor>
     <webMaster>1084836421@qq.com (Ning)</webMaster>
     <copyright>Copyright © 2025 Ning All Rights Reserved</copyright>
-    <lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://gallery.mrlining.cn/categories/nature/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://gallery.mrlining.cn/categories/nature/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Nature</title>
       <link>https://gallery.mrlining.cn/nature/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>1084836421@qq.com (Ning)</author>
-      <guid>https://gallery.mrlining.cn/nature/</guid>
-      <description></description>
-    </item>
+      <guid>https://gallery.mrlining.cn/nature/</guid><media:content url="https://gallery.mrlining.cn/nature/1666616333699_hu_b7fb5787ed1773e5.jpeg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://gallery.mrlining.cn/nature/1666616333699_hu_b7fb5787ed1773e5.jpeg&quot; /&gt;
+          &lt;p&gt;Through photography, the beauty of Mother Nature can be frozen in time. This category celebrates the magic of our planet and beyond — from the immensity of the great outdoors, to miraculous moments in your own backyard.&lt;/p&gt;
+        </description></item>
     <item>
       <title>猫</title>
       <link>https://gallery.mrlining.cn/animals/cats/</link>
       <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate><author>1084836421@qq.com (Ning)</author>
-      <guid>https://gallery.mrlining.cn/animals/cats/</guid>
-      <description></description>
-    </item>
+      <guid>https://gallery.mrlining.cn/animals/cats/</guid><description>&lt;no value&gt;</description></item>
     <item>
       <title>狗</title>
       <link>https://gallery.mrlining.cn/animals/dogs/</link>
       <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate><author>1084836421@qq.com (Ning)</author>
-      <guid>https://gallery.mrlining.cn/animals/dogs/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&lt;/p&gt;</description>
-    </item>
+      <guid>https://gallery.mrlining.cn/animals/dogs/</guid><description>&lt;no value&gt;</description></item>
   </channel>
 </rss>
